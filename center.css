@@ -1,0 +1,56 @@
+body
+{
+background-color:orange;
+margin=0;
+padding=0;
+}
+.container
+{
+width:400px;
+height:400px;
+margin:100px auto;
+position: relative;
+background: white;
+
+}
+.container h1
+{
+text-transform: uppercase;
+text-align: center;
+font-size: 30px;
+transform: translateY(70%);
+}
+.container h2
+{
+text-align: center;
+font-weight: normal;
+font-size: 20px;
+}
+.form input
+{
+outline: 1;
+width: 100%;
+padding:10px;
+box-sizing: border-box;
+margin: 0 0 10px;
+}
+.form button
+{
+outline: 1;
+box-sizing: border-box;
+width:100%;
+padding: 10px;
+text-transform: uppercase;
+background-color:  #00FFFF;
+text-align: center;
+color: white;
+}
+.container h4
+{
+text-align: center;
+}
+.href
+{
+text-align: center;
+transform: translateY(50%)
+}
